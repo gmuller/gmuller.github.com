@@ -1,0 +1,11 @@
+- [ ] Scuba
+- [ ] Sailing 
+- [ ] Snuba
+- [ ] Fencing 
+- [ ] Taiko
+- [ ] Hang Gliding 
+- [ ] Learn to drive a stick
+- [ ] Learn to fly
+- [ ] Cook a big ass paella
+- [x] 
+- [x] Snorkel
